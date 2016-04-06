@@ -13,6 +13,7 @@
         #header, #footer{ background: lightgreen; text-align: center; }
         #menu{ padding: 0px; }
         #menu li{ display: inline; }
+        .div-prova{ text-align: center }
 
     </style>
 
