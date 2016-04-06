@@ -26,5 +26,7 @@
         quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse
         cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </p>
+    <br>
+    <div class="div-prova"><p>Div prova!</p></div>
 
 @stop <!-- Specifico la fine della sezone -->
